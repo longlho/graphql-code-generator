@@ -397,5 +397,3 @@ generates:
     schema: ./dev-test/gql-tag/schema.graphql
     documents: './dev-test/gql-tag/src/**/*.ts'
     preset: gql-tag-preset
-    plugins:
-      - gql-tag
